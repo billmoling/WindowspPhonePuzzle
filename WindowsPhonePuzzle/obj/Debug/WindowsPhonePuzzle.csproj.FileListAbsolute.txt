@@ -1,0 +1,15 @@
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\Bin\Debug\ApplicationIcon.png
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\Bin\Debug\Background.png
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\Bin\Debug\WindowsPhonePuzzle.dll
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\Bin\Debug\WindowsPhonePuzzle.pdb
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\Bin\Debug\AppManifest.xaml
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\Bin\Debug\WindowsPhonePuzzle.xap
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\obj\Debug\ResolveAssemblyReference.cache
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\obj\Debug\App.g.i.cs
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\obj\Debug\ErrorPage.g.i.cs
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\obj\Debug\MainPage.g.i.cs
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\obj\Debug\WindowsPhonePuzzle.g.resources
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\obj\Debug\WindowsPhonePuzzle.dll
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\obj\Debug\WindowsPhonePuzzle.pdb
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\obj\Debug\XapCacheFile.xml
+E:\Develop\Windows Phone\WindowsPhonePuzzle\WindowsPhonePuzzle\obj\Debug\PuzzlePage.g.i.cs
